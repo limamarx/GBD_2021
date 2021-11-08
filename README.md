@@ -1,4 +1,4 @@
-Conteúdo prático da disciplina Gerenciamento de base de dados - PPgDEM - UFRN (2021.2)
+Conteúdo prático da disciplina Gerenciamento de Base de Dados - PPgDEM - UFRN (2021.2)
 
 Profa. Luciana Lima: https://docente.ufrn.br/201900356665/perfil
 
