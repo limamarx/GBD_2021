@@ -8,3 +8,4 @@ Link do YouTube das video-aulas práticas:
 3) PNAD Contínua Trimestral: https://youtu.be/gOFM-MM41qQ
 4) Pesquisa de Orçamentos Familiares (POF): https://youtu.be/N1hPvUH7IQU
 5) Pesquisa PNAD Covid-19: https://youtu.be/-6ZvggDMNp0
+6) Pesquisa Nacional de Saúde: https://youtu.be/p8Ew_3GyhM4
